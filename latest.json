@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHY1Ty9FTXM2TjVyc0p5cVMxSkRNR0RoUG0xRi8xUzNPYXZESk8yN2dPMjVLbC9IYkUzTWRuaDIwY2F2NEhwaWJnbEtvTmc0UHQ1M0xQZHIzcXQ0RHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDc1MzEwCWZpbGU6RWFzeUNvaW4gVG90ZW0gQkVUQV8yLjEuMC1iZXRhLjFfeDY0LXNldHVwLmV4ZQpTRzU1SWs0SmlBWmpuSkFLYzZyaTBqLzFPWDNmUzh6VEw0QUVsVDZKbE0zWHlWV0tIeEF0R00xRkpZb3VpcURTaXUxVzA1RzJEU0FJZThpd0ZvOW5CQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-beta-releases/releases/download/v2.1.0-beta.1/EasyCoin.Totem.BETA_2.1.0-beta.1_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-08-30T07:35:38Z",
+    "version":  "2.1.0-beta.1",
+    "notes":  "Build di test EasyCoin Totem BETA versione 2.1.0-beta.1."
+}
