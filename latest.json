@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTGlLUXlMUzFlVUgrR2h1Z1dmWWZEcEd0MkVTSTlndmo4RGNaZ1ZZV3FlOCtrWW9VYVdqRGoyV0paM1FHNVlvT004UUwvU0oraU1rZ1hPc0dTbGdzWFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk1MzQzCWZpbGU6RWFzeUNvaW4gVG90ZW0gQkVUQV8yLjMuNS1iZXRhLjFfeDY0LXNldHVwLmV4ZQpBcUE1UEg5cVZmamtXc3JkSzdoUlF0QUJidFZnZ2FtcnJEM3BJclZVSVdJbERUYjVGUGR6NG5kUFlBTFh3K1huNHJtUEtmWG4yNkgyUzQwblE0eE1DZz09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-totem-beta-releases/releases/download/v2.3.5-beta.1/EasyCoin.Totem.BETA_2.3.5-beta.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTGgwOXpKNmVhd0ViU2UxWGZVSDlncG9KUXhUczNMeCtyVVdXcmRxYkx0S2RKODF0OVpXM3l2cDlQWFR6KzE2ZWtUdkNlb2dHREZQRDdreTMxNDVON3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTAwNTE2CWZpbGU6RWFzeUNvaW4gVG90ZW0gQkVUQV8yLjMuNS1iZXRhLjJfeDY0LXNldHVwLmV4ZQpqVmUyQXA4eTBTR21SRVkxZWQzR3JURUlpNG9LNVg3NUp5Rkc4OHNJYmNLNzdPSVA1UHQvZndQRVI3ZjRlOHNoWk9kTURHang3NkJWWnNUUWw3YzdEQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-beta-releases/releases/download/v2.3.5-beta.2/EasyCoin.Totem.BETA_2.3.5-beta.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-09-20T09:09:49Z",
-    "version":  "2.3.5-beta.1",
-    "notes":  "Build di test EasyCoin Totem BETA versione 2.3.5-beta.1: log diagnostico grezzo del lettore RFID."
+    "pub_date":  "2026-09-20T10:35:53Z",
+    "version":  "2.3.5-beta.2",
+    "notes":  "Fix: esclude il codice segnaposto 000000000000 dalle letture RFID valide."
 }
