@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHYyMXdwSDdsbitEb0V6TjI4MXpPdHJaOTBZUHBnVXZBL3ptUjB6Y1VIR3o5YWxjSWR5S1hOLzRLRUdTRXN0STBWNkYwcmNTaitKN0QvOEQza2RiZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjYzNDgzCWZpbGU6RWFzeUNvaW4gVG90ZW0gQkVUQV8yLjMuOC1iZXRhLjFfeDY0LXNldHVwLmV4ZQpsblRoZUZTUnYrUWszYm9VWUNBcG1xWnJ4UHRhdnc3MUZMMThQR3lJS0NFNEVSdjdLd1p5NmNxVTRRRFUzV3RjQ3lxdmpIdHlzQ3FqUWJQZ1NCZUpCQT09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-totem-beta-releases/releases/download/v2.3.8-beta.1/EasyCoin.Totem.BETA_2.3.8-beta.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHF0d0VMT1A0K2VzUjZtS2tCNkE1K1grMVlhWUxLNjJYSU1PU2JPUnRhNEZMbDBsc1p5UDRzOEp3TUlyV2NwTE9HZzFGK1RuL3VxWnUyclFNMUU5SndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjY1MDQ3CWZpbGU6RWFzeUNvaW4gVG90ZW0gQkVUQV8yLjMuOC1iZXRhLjJfeDY0LXNldHVwLmV4ZQoyQVByb25aVGlLdVFkVDhRZGRSdFZ5eldVYTVtUDVTME4rZTZBRHMxMG9jMkQrZHZtRzdmQnpQQm5TNE8wdG1TaXVPUDJkb0tucHdHTENrbGwzNjVEQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-beta-releases/releases/download/v2.3.8-beta.2/EasyCoin.Totem.BETA_2.3.8-beta.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-06T05:11:46Z",
-    "version":  "2.3.8-beta.1",
-    "notes":  "Build di test EasyCoin Totem BETA versione 2.3.8-beta.1."
+    "pub_date":  "2026-10-06T05:37:49Z",
+    "version":  "2.3.8-beta.2",
+    "notes":  "Build di test EasyCoin Totem BETA versione 2.3.8-beta.2."
 }
